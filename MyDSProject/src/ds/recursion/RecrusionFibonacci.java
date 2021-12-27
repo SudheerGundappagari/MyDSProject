@@ -3,7 +3,7 @@ package ds.recursion;
 class Main {
   public static void main(String[] args) {
     Main recursion = new Main();
-    var rec = recursion.fibonacci(8);
+    var rec = recursion.fibonacci(2);
     
    System.out.println(rec);
    printFIb(1,1);

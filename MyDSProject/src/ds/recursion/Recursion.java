@@ -3,7 +3,7 @@ package ds.recursion;
 class PMain {
   public static void main(String[] args) {
    PMain recursion = new PMain();
-    var rec = recursion.factorial(5);
+    var rec = recursion.factorial(6);
     System.out.println(rec);
   }
 
