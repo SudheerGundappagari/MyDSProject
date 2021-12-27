@@ -3,7 +3,7 @@ package ds.recursion.exercise;
 class EMain {
   public static void main(String[] args) {
     EMain main = new EMain();
-    var result = main.decimalToBinary(30);
+    var result = main.decimalToBinary(18);
     System.out.println(result);
 
   }
